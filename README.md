@@ -7,22 +7,66 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
-I'm a **Computer Science graduate** with a passion for building innovative and scalable software solutions. My expertise spans **Flutter**, **MERN**, **Firebase**, and **Go**, with hands-on experience in full-stack development, distributed systems, and real-time data processing.
+I'm a **Full-Stack Software Engineer** passionate about building scalable systems and AI-powered solutions. Currently at **Careem**, I work on fintech infrastructure serving **10M+ users** while architecting AI developer tools that transform team productivity.
 
-* 🔭 **Current Project**: [FinTrail](https://fintrailapp.vercel.app/) – A finance tracking app for smarter budgeting and investment management.
-* 🌱 **Currently Learning**: Advanced **Machine Learning** and backend optimization with **Go**.
-* ⚡ **Fun Fact**: I love solving algorithmic problems and exploring the intersection of AI and web technologies!
+My expertise spans backend microservices (**Kotlin/Spring Boot**), mobile development (**Swift/iOS**, **React Native**), web platforms (**React/Node.js**), and AI systems (**RAG**, **LLMs**, **MCP**).
 
-  
+### 🚀 What I'm Working On
 
-![as1725's Streak](https://github-readme-streak-stats.herokuapp.com/?user=as1725&theme=dark&hide_border=true)
+* 💼 **@Careem**: Building payment & remittance platform processing **50K+ monthly transactions** with microservices architecture
+* 🤖 **AI Infrastructure**: Architected GreenLane AI Dev Kit - internal tooling that reduced development time by **60%**
+* 📱 **FinTrail**: Founded Pakistan's first AI-powered financial tracker with **1,000+ downloads** ([fintrailapp.vercel.app](https://fintrailapp.vercel.app/))
 
-![as1725's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=as1725&theme=dark&show_icons=true&hide_border=true&layout=compact)
+### 💡 Recent Highlights
 
-[![Anas's Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=as1725&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+* Built **RAG-based knowledge base** serving **500+ employees** with **90% accuracy**
+* Developed **custom MCP server** for Gradle/Android development
+* Architected transaction processing state machines handling **99.95% uptime**
+* Created AI automation systems reducing proposal generation time by **70%**
 
-🔗 Connect with Me
+### 🛠️ Tech Stack
 
-<a href="https://www.linkedin.com/in/anas-sohail-a979b1234/">
-  <img alt="Anas's LinkedIN" width="22px" src="https://github.com/itsmeshibintmz/itsmeshibintmz/blob/main/icons/assets/linkedin.svg" />
+**Languages**: Kotlin • Swift • TypeScript • Python • JavaScript • Go  
+**Backend**: Spring Boot • Node.js • Express • Flask  
+**Frontend**: SwiftUI • React • React Native • Next.js  
+**AI/ML**: RAG • OpenAI/Claude APIs • Vector Databases • MCP  
+**Cloud**: AWS • GCP • Docker • Kubernetes  
+**Databases**: PostgreSQL • Redis • Pinecone • Firebase
+
+### 🌱 Currently Exploring
+
+* Advanced AI agent architectures and multi-agent systems
+* Real-time distributed systems optimization
+* LLM fine-tuning and prompt engineering at scale
+
+### ⚡ Fun Facts
+
+* Built an entire AI development infrastructure used by **100+ engineers** daily
+* Love solving complex system design problems and exploring the intersection of AI and developer productivity
+* Always experimenting with the latest AI tools and frameworks
+
+---
+
+![anas-sohail's Streak](https://github-readme-streak-stats.herokuapp.com/?user=anas-sohail&theme=dark&hide_border=true)
+
+![anas-sohail's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anas-sohail&theme=dark&show_icons=true&hide_border=true&layout=compact)
+
+[![Anas's Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=anas-sohail&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+### 🔗 Connect with Me
+
+<a href="https://www.linkedin.com/in/anas-sohail03/">
+  <img alt="Anas's LinkedIn" width="22px" src="https://github.com/itsmeshibintmz/itsmeshibintmz/blob/main/icons/assets/linkedin.svg" />
 </a>
+&nbsp;&nbsp;
+<a href="https://anassohail.vercel.app/">
+  <img alt="Portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
+</a>
+
+---
+
+<p align="center">
+  <i>💼 Open to opportunities in Full-Stack Development, AI Engineering, and Fintech</i>
+</p>
