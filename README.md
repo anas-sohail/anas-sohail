@@ -45,15 +45,7 @@ My expertise spans backend microservices (**Kotlin/Spring Boot**), mobile develo
 * Love solving complex system design problems and exploring the intersection of AI and developer productivity
 * Always experimenting with the latest AI tools and frameworks
 
----
-
-![anas-sohail's Streak](https://github-readme-streak-stats.herokuapp.com/?user=anas-sohail&theme=dark&hide_border=true)
-
-![anas-sohail's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anas-sohail&theme=dark&show_icons=true&hide_border=true&layout=compact)
-
 [![Anas's Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=anas-sohail&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
 
 ### 🔗 Connect with Me
 
