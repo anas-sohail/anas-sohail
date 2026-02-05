@@ -52,10 +52,6 @@ My expertise spans backend microservices (**Kotlin/Spring Boot**), mobile develo
 <a href="https://www.linkedin.com/in/anas-sohail03/">
   <img alt="Anas's LinkedIn" width="22px" src="https://github.com/itsmeshibintmz/itsmeshibintmz/blob/main/icons/assets/linkedin.svg" />
 </a>
-&nbsp;&nbsp;
-<a href="https://anassohail.vercel.app/">
-  <img alt="Portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
-</a>
 
 ---
 
